@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at my <a href="https://portfoliorohitkoli.vercel.app/">Portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://portfoliorohitkoli.vercel.app/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **React JS**
 
